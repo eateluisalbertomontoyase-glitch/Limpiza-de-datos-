@@ -1,4 +1,4 @@
-# Limpieza de datos con Python
+# Limpieza de datos
 
 Práctica de Minería de Datos para aprender a identificar valores faltantes, registros duplicados y formatos inconsistentes antes de entrenar un modelo.
 
